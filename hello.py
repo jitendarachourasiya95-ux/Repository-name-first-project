@@ -1,2 +1,4 @@
 print("Hello from Git and Python!")
-print("Learning Git with Kali!")
+Hello from Git and Python!
+Learning Git with Kali!
+My first GitHub project!
